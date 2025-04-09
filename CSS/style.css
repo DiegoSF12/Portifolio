@@ -4,6 +4,9 @@ html{
 header{
     background-color: #8109cc;
 }
+nav{
+    text-align: right;
+}
 img{
     margin-top: 10px;
     margin-left: 10px;
